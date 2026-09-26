@@ -1,0 +1,17 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables / secrets
+.env
+
+# IDE settings
+.vscode/
+.idea/
+
+# Testing / type-checking cache
+.pytest_cache/
+.mypy_cache/
